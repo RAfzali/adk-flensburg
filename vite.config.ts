@@ -4,6 +4,7 @@ import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
+  base: '/adk-flensburg/', // <— WICHTIG für GitHub Pages (Repo-Pages)
   plugins: [
     vue({
       template: { transformAssetUrls }
