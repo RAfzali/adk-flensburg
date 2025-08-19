@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "projects": "Projekte",
+    "events": "Veranstaltungen",
+    "news": "News / Blog",
+    "gallery": "Galerie",
+    "partners": "Partner",
+    "contact": "Kontakt",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "hero": {
+    "welcome": "Willkommen beim Afghanisch-Deutscher Verein in Flensburg",
+    "subtitle": "Kultureller Austausch, Integration und gegenseitiges Verständnis."
+  },
+  "home": {
+    "intro": "Der Afghanisch-Deutscher Kulturverein e.V. in Flensburg setzt sich für den kulturellen Austausch, die Integration und das gegenseitige Verständnis zwischen afghanischen und deutschen Gemeinschaften in Flensburg und der Umgebung ein. Durch kulturelle Veranstaltungen, Sportaktivitäten, Sprachunterstützung und Bildungsinitiativen möchten wir Brücken bauen, Vielfalt feiern und afghanische Familien und Einzelpersonen bei der Orientierung in Deutschland unterstützen. Unsere Sportprogramme, darunter Volleyball und Lauf, stehen allen Altersgruppen offen und bieten eine großartige Möglichkeit, sich zu vernetzen, aktiv zu bleiben und Teamgeist zu erleben. Ob Sie sich engagieren, etwas lernen oder Kontakte knüpfen möchten – wir laden Sie herzlich ein, sich uns anzuschließen und gemeinsam eine starke Gemeinschaft zu fördern."
+  },
+  "about": {
+    "historyTitle": "Geschichte des Vereins",
+    "history": "Der Afghanisch-Deutsche Verein in Flensburg wurde mit dem Ziel gegründet, die afghanische Gemeinschaft in Deutschland zu unterstützen und den kulturellen Austausch zwischen Afghanen und Deutschen zu fördern. Ursprünglich entstand die Idee aus dem Wunsch heraus, Afghanen in der Region Flensburg eine Plattform für Integration, kulturelle Pflege und gegenseitige Hilfe zu bieten. Seit seiner Gründung hat der Verein zahlreiche Aktivitäten organisiert, darunter kulturelle Feste, Bildungs- und Sprachprogramme, und sportliche Veranstaltungen, um das Gemeinschaftsgefühl zu stärken und Brücken zwischen den Kulturen zu bauen. Der Verein ist über die Jahre stetig gewachsen und hat sich als wichtiger Akteur in der Region etabliert, der nicht nur Afghanen, sondern auch interessierten Deutschen eine Möglichkeit zum Austausch und zur gemeinsamen Arbeit bietet.",
+    "visionMissionTitle": "Vision und Mission",
+    "vision": "Unsere Vision ist es, eine integrative und starke Gemeinschaft zu fördern, die auf gegenseitigem Respekt, Verständnis und Zusammenarbeit zwischen der afghanischen und der deutschen Gesellschaft basiert. Wir streben danach, ein kulturelles Bindeglied zu sein, das den Austausch und das Zusammenwachsen der Kulturen unterstützt.",
+    "mission": "Unsere Mission ist es, den afghanischen Migranten in Deutschland, insbesondere in der Region Flensburg, bei ihrer Integration zu helfen und ihre kulturelle Identität zu bewahren. Wir bieten Bildungsangebote, Sprachkurse, kulturelle Veranstaltungen und soziale Unterstützung an, um die Teilhabe an der Gesellschaft zu fördern. Wir möchten ein Umfeld schaffen, in dem sich jeder willkommen fühlt und in dem wir durch Sport, Kultur und soziale Projekte eine starke, vernetzte Gemeinschaft aufbauen.",
+    "teamTitle": "Team und Vorstand",
+    "team": "Unser Team und Vorstand setzt sich aus engagierten Mitgliedern zusammen, die leidenschaftlich daran arbeiten, die Ziele des Afghanisch-Deutschen Vereins zu verwirklichen. Der Vorstand, bestehend aus Vorsitzenden, stellvertretenden Vorsitzenden und Schatzmeister, leitet die strategische Planung und die Organisation der Vereinsaktivitäten. Unsere Teammitglieder bringen ihre vielfältigen Talente und Erfahrungen ein, um kulturelle Veranstaltungen, Bildungsprogramme und soziale Projekte für die afghanische Gemeinschaft und die Gesellschaft in Flensburg zu gestalten. Gemeinsam fördern wir Integration, Verständnis und den Austausch zwischen den Kulturen."
+  },
+  "projects": {
+    "title": "Projekte",
+    "intro": "Unsere Projekte zielen darauf ab, die afghanische Gemeinschaft in Flensburg zu stärken und die Integration zu fördern. Dazu zählen Bildungsinitiativen, die Sprachkurse, berufliche Orientierung und interkulturelle Workshops anbieten, um Teilhabe und berufliche Chancen zu verbessern. Außerdem organisieren wir Kultur- und Sportveranstaltungen, die den Austausch und das gegenseitige Verständnis zwischen der afghanischen und deutschen Gemeinschaft fördern. Ein weiteres zentrales Projekt ist die Unterstützung bei alltäglichen Herausforderungen, wie Behördengängen und Rechtsberatung, um neue Perspektiven zu schaffen und die Gemeinschaft zu vernetzen.",
+    "current": "Aktuelle Projekte",
+    "items": [
+      {
+        "title": "Landesnetzwerk Migrantenorganisationen Schleswig-Holstein (LaNeMo SH)",
+        "description": "Als Teil von LaNeMo SH arbeiten wir daran, Migrantinnenorganisationen zu vernetzen und deren Anliegen auf politischer Ebene zu vertreten. Ziel ist die Stärkung der Teilhabe von Migrantinnen und eine bessere Integration."
+      },
+      {
+        "title": "Politische Bildung – Teilhabe beginnt jetzt: ",
+        "description": "Dieses Projekt fördert politisches Bewusstsein und Engagement innerhalb unserer Gemeinschaft, um die aktive Teilhabe an gesellschaftlichen und politischen Prozessen zu unterstützen."
+      },
+      {
+        "title": "Frauen-Café:",
+        "description": "Unser Frauen-Café bietet einen geschützten Raum für afghanische Frauen, um sich auszutauschen, Kontakte zu knüpfen und über Themen wie Bildung, Gesundheit und Integration zu sprechen."
+      },
+      {
+        "title": "Männer-Café:",
+        "description": "Im Männer-Café treffen sich afghanische Männer zu regelmäßigen Gesprächen und gemeinsamen Aktivitäten. Der Fokus liegt auf Austausch und Unterstützung bei Fragen rund um Alltag und Integration."
+      },
+      {
+        "title": "Volleyballgruppe:",
+        "description": "Unsere Volleyballgruppe fördert nicht nur die sportliche Betätigung, sondern schafft auch eine Möglichkeit für Gemeinschaft und Teamgeist. Hier können sich Menschen aus verschiedenen Kulturen durch Sport näherkommen und gemeinsame Erlebnisse schaffen."
+      } 
+    ],
+    "reportsTitle": "Projektberichte",
+    "reports": "Unsere Projektberichte dokumentieren den Verlauf und die Ergebnisse unserer Initiativen und geben einen Überblick über die Fortschritte und Erfolge des Afghanisch-Deutschen Vereins in Flensburg. Von Integrationsprogrammen und Bildungsinitiativen bis hin zu kulturellen und sportlichen Veranstaltungen – jeder Bericht zeigt, wie unsere Projekte die Gemeinschaft unterstützen und positive Veränderungen bewirken. Die Berichte werden regelmäßig veröffentlicht und bieten eine transparente Darstellung unserer Arbeit, Herausforderungen und der erzielten Wirkung."
+  },
+  "participate": {
+    "title": "Mitmachen",
+    "membershipTitle": "Mitglied werden",
+    "membership": "Werden Sie Teil des Afghanisch-Deutschen Vereins in Flensburg und unterstützen Sie unsere Mission, Integration, Bildung und Gemeinschaft zu fördern! Als Mitglied können Sie aktiv an Projekten teilnehmen, Ideen einbringen und gemeinsam mit uns die Zukunft gestalten. Ihre Mitgliedschaft stärkt unsere Arbeit und hilft, eine inklusive und unterstützende Gemeinschaft zu schaffen. Wir freuen uns auf Sie!",
+    "volunteeringTitle": "Freiwilligenarbeit",
+    "volunteering": "Freiwilligenarbeit ist ein zentraler Bestandteil unserer Arbeit. Wenn Sie sich engagieren möchten, haben Sie die Möglichkeit, aktiv bei unseren Projekten mitzuwirken, sei es in der Organisation von Veranstaltungen, Unterstützung von Flüchtlingen oder bei verschiedenen Bildungsinitiativen. Ihr Engagement trägt dazu bei, unsere Ziele zu erreichen und positive Veränderungen in der Gemeinschaft zu fördern.",
+    "donationsTitle": "Spendenmöglichkeiten",
+    "donations": "Ihre Spende hilft uns, unsere Projekte und Programme weiterhin umzusetzen und die Integration von Geflüchteten sowie die Förderung von Bildung und Kultur zu unterstützen. Jede Spende, egal in welcher Höhe, macht einen Unterschied und trägt dazu bei, unsere Arbeit langfristig zu sichern. Vielen Dank für Ihre Unterstützung!"
+  },
+  "events": {
+    "upcoming": "Kommende Veranstaltungen",
+    "past": "Vergangene Veranstaltungen",
+    "registration": "Anmeldung und Details",
+    "registrationInfo": "Für die Teilnahme an unseren Veranstaltungen ist eine Anmeldung erforderlich. Hier finden Sie alle Details zu den Veranstaltungen, einschließlich der Anmeldemodalitäten und weiteren Informationen. Melden Sie sich frühzeitig an, um sicherzustellen, dass Sie dabei sind!"
+  },
+  "news": {
+    "latest": "Aktuelle Nachrichten",
+    "stories": "Erfolge und Geschichten",
+    "articles": "Beiträge und Artikel"
+  },
+  "gallery": {
+    "title": "Galerie",
+    "intro": "Fotos und Videos von Veranstaltungen und Projekten"
+  },
+  "partners": {
+    "title": "Partner und Unterstützer",
+    "thanks": "Wir danken unseren Partnern, die uns dabei unterstützen, unsere Vision zu verwirklichen und nachhaltige Projekte zu realisieren. Zusammen leisten wir einen wertvollen Beitrag für die Gemeinschaft.Ein herzliches Dankeschön an alle Sponsoren und Spender, die uns finanziell unterstützen. Ihre Hilfe ermöglicht es uns, unsere Arbeit fortzusetzen und neue Projekte zu starten."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "form": "Kontaktformular",
+    "address": "Deutsch-Afghanischer Kulturverein Flensburg e.V.\nHolm 76\n24937 Flensburg\nDeutschland",
+    "phoneEmail": "Telefonnummer und E-Mail"
+  },
+  "legal": {
+    "imprint": "Impressum",
+    "privacy": "Datenschutzerklärung"
+  },
+  "admin": {
+    "loginTitle": "Admin-Login",
+    "password": "Passwort",
+    "login": "Einloggen",
+    "logout": "Ausloggen",
+    "dashboard": "Admin-Dashboard",
+    "events": "Veranstaltungen",
+    "news": "News/Blog",
+    "gallery": "Galerie",
+    "title": "Titel",
+    "body": "Beschreibung",
+    "date": "Datum",
+    "image": "Bild",
+    "actions": "Aktionen",
+    "add": "Neu hinzufügen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "langDe": "Deutsch",
+    "langFa": "Dari",
+    "langPs": "Paschtu"
+  }
+}
